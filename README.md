@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karol.chamski@gmail.com)
 - 👋 Hi, I’m @KarolChamski
 - 👀 I’m interested in web development
-- 🌱 I’m currently and never stop learning javascript / vue.js
+- 🌱 I’m currently learning javascript / vue.js
 - :man_technologist: My goal is to be a front-end developer
 - :coffee: I'm coffee enthusiast
 
