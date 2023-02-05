@@ -1,8 +1,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karol.chamski@gmail.com)
-- 👋 Hi, I’m @KarolChamski
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript / vue.js
-- :coffee: I'm coffee enthusiast
+
 
 # Projects
 :dollar: [Finance App](https://github.com/KarolChamski/Finance-App) Finance app which use API connection to exchange your money by current rate. App made with Vue.js based on vuex. [DEMO](https://karolchamski.github.io/Finance-App/)</br>
